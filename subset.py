@@ -1,5 +1,9 @@
 import math
 import random
+'''
+author: yeahr
+this line is deleting
+'''
 
 def subSet(setA, setB):
     begin = max(setA[0],setB[0])
