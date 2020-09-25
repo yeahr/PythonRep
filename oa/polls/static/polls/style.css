@@ -1,0 +1,8 @@
+li a {
+    color: red;
+}
+
+body {
+    background: white url("images/smile.jpg") no-repeat scroll;
+    background-size: 1320px 750px;   
+}
