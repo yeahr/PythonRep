@@ -4,6 +4,8 @@ Now is on test branch.
 modify to cause conflict.
 It's a conflict to resolve.
 
+git
+
    - 常用算法：
 
      - 穷举法 - 又称为暴力破解法，对所有的可能性进行验证，直到找到正确答案。
